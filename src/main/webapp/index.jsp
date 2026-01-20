@@ -32,7 +32,7 @@
 <body>
     <div class="container">
         <h1>Welcome to JSP!</h1>
-        <p>This is a simple test page to verify that JSP is running correctly and tested.</p>
+        <p>This is a simple test page to verify that JSP is good.</p>
 
         <div class="info">
             <%
